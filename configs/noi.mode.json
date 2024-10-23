@@ -1,7 +1,7 @@
 {
-    "name": "Noi Mode",
+    "name": "OhMyHub Mode",
     "version": "0.1.9",
-    "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
+    "sync": "https://github.com/Oh-My-Apps/OhMyHub/blob/ohmyhub/configs/noi.mode.json",
     "modes": [
       {
         "id": "noi@ai",
@@ -164,7 +164,13 @@
         "id": "ohmy.idx",
         "parent": "noi@dev",
         "text": "Project IDX",
-        "url": "https://idx.google.com/"
+        "url": "https://idx.google.com"
+      },
+      {
+        "id": "ohmy.backlight",
+        "parent": "noi@dev",
+        "text": "Backlight",
+        "url": "https://studio.backlight.dev/"
       },
       {
         "id": "noi:replit",
@@ -218,8 +224,14 @@
         "id": "ohmy.onenote",
         "parent": "noi@note",
         "text": "OneNote",
-        "url": "https://www.onenote.com/"
-      },  
+        "url": "https://www.onenote.com"
+      },
+      {
+        "id": "ohmy.notebooklm",
+        "parent": "noi@note",
+        "text": "NotebookLM",
+        "url": "https://notebooklm.google.com"
+      },
       {
         "id": "noi:gmail",
         "parent": "noi@email",
