@@ -15,11 +15,17 @@
         "dir": true,
         "text": "Dev"
       },
-    {
+      {
         "id": "ohmy@note",
         "parent": 0,
         "dir": true,
         "text": "Note"
+      },
+      {
+        "id": "ohmy@audio",
+        "parent": 0,
+        "dir": true,
+        "text": "Audio Tool"
       },
       {
         "id": "noi@community",
@@ -170,7 +176,13 @@
         "id": "ohmy.backlight",
         "parent": "noi@dev",
         "text": "Backlight",
-        "url": "https://studio.backlight.dev/"
+        "url": "https://studio.backlight.dev"
+      },
+      {
+        "id": "ohmy.stackblitz",
+        "parent": "noi@dev",
+        "text": "Stackblitz",
+        "url": "https://stackblitz.com"
       },
       {
         "id": "noi:replit",
@@ -231,6 +243,12 @@
         "parent": "noi@note",
         "text": "NotebookLM",
         "url": "https://notebooklm.google.com"
+      },
+      {
+        "id": "ohmy.mvsepmdx",
+        "parent": "noi@audio",
+        "text": "MVSep-MDX23 Colab",
+        "url": "https://colab.research.google.com/drive/1SQRbBFVBgMMXw5r9FGWI1ta8Q7nf0OaV?usp=sharing"
       },
       {
         "id": "noi:gmail",
